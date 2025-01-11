@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marzuuq
-- Going to Hack the world🌎
+- Techie! Developing Basics!
 
 <!---
 Marzuuq/Marzuuq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
