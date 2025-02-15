@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Marzuuq
 - Techie! Developing Basics!
+- Learning JS.
 
 <!---
 Marzuuq/Marzuuq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
